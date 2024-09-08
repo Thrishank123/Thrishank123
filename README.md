@@ -1,9 +1,9 @@
 
-<h1>Thrishank123's Git Profile</h1>
+<h1>Thrishank's Git Profile</h1>
 
 <h2>Introduction</h2>
 
-<p>Hello! Welcome to my Git profile. I am Thrishank123, and I have a deep passion for Artificial Intelligence. As I embark on my journey, I am actively learning the Java programming language to broaden my skillset and contribute effectively to AI-related projects. Please feel free to connect with me at any time via email:</p>
+<p>Hello! Welcome to my Git profile. I am Thrishank, and I have a deep passion for Artificial Intelligence. As I embark on my journey, I am actively learning the Java programming language to broaden my skillset and contribute effectively to AI-related projects. Please feel free to connect with me at any time via email:</p>
 
 <ul>
     <li>Email: <a href="mailto:Thrishankkarri8@gmail.com">Thrishankkarri8@gmail.com</a></li>
@@ -28,5 +28,5 @@
 
 <p>Thank you for visiting my Git profile, and I look forward to connecting with you as we explore the exciting world of Artificial Intelligence and programming together.</p>
 
-<p>Best regards,<br>Thrishank123</p>
+<p>Best regards,<br>Thrishank</p>
 
